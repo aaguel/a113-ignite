@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+*.tar.gz
+*.tar
+node_modules/
